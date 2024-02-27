@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{025BE75E-D9F7-42F2-83F5-1DE47B79204A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkCore.Extensions", "src\EntityFrameworkCore.Extensions\EntityFrameworkCore.Extensions\EntityFrameworkCore.Extensions.csproj", "{3F0D756E-7D75-4DDF-B0A3-C2B6795AF819}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F0D756E-7D75-4DDF-B0A3-C2B6795AF819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F0D756E-7D75-4DDF-B0A3-C2B6795AF819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F0D756E-7D75-4DDF-B0A3-C2B6795AF819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F0D756E-7D75-4DDF-B0A3-C2B6795AF819}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3F0D756E-7D75-4DDF-B0A3-C2B6795AF819} = {025BE75E-D9F7-42F2-83F5-1DE47B79204A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F2333D4-EBB2-4D32-9B05-DD85EEB82E28}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,117 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Code\\Lycoris\\Lycoris.EntityFrameworkCore.Extensions\\src\\EntityFrameworkCore.Extensions\\EntityFrameworkCore.Extensions\\EntityFrameworkCore.Extensions.csproj": {}
+  },
+  "projects": {
+    "E:\\Code\\Lycoris\\Lycoris.EntityFrameworkCore.Extensions\\src\\EntityFrameworkCore.Extensions\\EntityFrameworkCore.Extensions\\EntityFrameworkCore.Extensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Code\\Lycoris\\Lycoris.EntityFrameworkCore.Extensions\\src\\EntityFrameworkCore.Extensions\\EntityFrameworkCore.Extensions\\EntityFrameworkCore.Extensions.csproj",
+        "projectName": "EntityFrameworkCore.Extensions",
+        "projectPath": "E:\\Code\\Lycoris\\Lycoris.EntityFrameworkCore.Extensions\\src\\EntityFrameworkCore.Extensions\\EntityFrameworkCore.Extensions\\EntityFrameworkCore.Extensions.csproj",
+        "packagesPath": "C:\\Users\\lycoris\\.nuget\\packages\\",
+        "outputPath": "E:\\Code\\Lycoris\\Lycoris.EntityFrameworkCore.Extensions\\src\\EntityFrameworkCore.Extensions\\EntityFrameworkCore.Extensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\lycoris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0",
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          },
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        },
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
